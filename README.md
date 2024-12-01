@@ -63,7 +63,7 @@ The **Facial Emotion Recognition System** is a deep learning-based application t
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Facial-Emotion-Recognition.git
+   git clone https://github.com/MISSAOUI-MOHAMED-AMINE/Facial-emotion-Recognition.git
    cd Facial-Emotion-Recognition
    ```
 2. Install dependencies:
