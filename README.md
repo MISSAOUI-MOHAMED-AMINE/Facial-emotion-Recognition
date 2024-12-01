@@ -42,6 +42,8 @@ The **Facial Emotion Recognition System** is a deep learning-based application t
 
 - **Deep Learning Framework**: TensorFlow/Keras
   - Developed a CNN model trained on a labeled dataset of facial expressions.
+    ![model_plot](https://github.com/user-attachments/assets/33eb4dd3-0349-4072-bef2-838cb490ff90)
+
 - **Frontend Framework**: Streamlit
   - Provides a web-based interface for interaction with the system.
 - **Libraries**:
@@ -81,7 +83,6 @@ The **Facial Emotion Recognition System** is a deep learning-based application t
 
 The CNN model is trained on a publicly available dataset of labeled facial expressions. The dataset contains diverse images representing various emotions to ensure robust and accurate predictions.
 
-![model_plot](https://github.com/user-attachments/assets/33eb4dd3-0349-4072-bef2-838cb490ff90)
 
 ---
 
