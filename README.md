@@ -4,6 +4,8 @@
 
 The **Facial Emotion Recognition System** is a deep learning-based application that identifies human emotions by analyzing facial expressions in images or real-time video streams. This project uses a Convolutional Neural Network (CNN) for emotion detection and has been implemented with **Streamlit** to provide an intuitive and user-friendly interface for interaction. Users can upload images or use their webcam to detect emotions in real time.
 
+![image](https://github.com/user-attachments/assets/143ffaba-b908-4b5b-962b-c53530015e3f)
+
 ---
 
 ## Features
